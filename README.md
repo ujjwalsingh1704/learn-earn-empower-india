@@ -5,3 +5,7 @@ Millions of students in India, especially from underprivileged or rural backgrou
 2. Proposed Solution
 
 A UPI-powered, AI-driven micro-scholarship platform that offers small, milestone-based financial rewards to students who complete specific learning tasks, social projects, or career-development goals. Rewards range from ₹500 to ₹1000 for verified achievements. The platform crowdsources funding from CSR initiatives, individual donors, alumni, and NGOs.
+
+
+## NOTE -
+Portions of this project were developed with the help of AI tools, including ChatGPT and GitHub Copilot. These tools assisted in generating code snippets, improving documentation, and brainstorming solutions. All code has been reviewed and tested to ensure quality and originality.
